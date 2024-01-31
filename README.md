@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mardonbek Khamidov</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
-- 🔭 I’m currently working on [AutoPoster](auto-poster.netlify.app)
+- 🔭 I’m currently working on [AutoPoster](https://github.com/Khamidov-M/auto-poster)
 
 - 🌱 I’m currently learning **react, firebase, blender**
 
