@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mardonbek Khamidov</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan!</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khamidov-m" alt="khamidov-m" /></a> </p>
+
 - 🔭 I’m currently working on [AutoPoster](https://github.com/Khamidov-M/auto-poster)
 
 - 🌱 I’m currently learning **react js, fireBase**
@@ -9,7 +11,7 @@
 
 - 🤝 I’m looking for help with [personal portfolio](https://github.com/Khamidov-M/my-portfolio)
 
-- 👨‍💻 All of my projects are available at [khamidov-dev.netlify.app](khamidov-dev.netlify.app)
+- 👨‍💻 All of my projects are available at [https://github.com/Khamidov-M/my-portfolio](https://github.com/Khamidov-M/my-portfolio)
 
 - 💬 Ask me about **react js, html, css, router-dom**
 
