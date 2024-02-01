@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Mardonbek Khamidov</h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+<h3 align="center">A passionate frontend developer from Uzbekistan!</h3>
 
 - 🔭 I’m currently working on [AutoPoster](https://github.com/Khamidov-M/auto-poster)
 
-- 🌱 I’m currently learning **react, firebase, blender**
+- 🌱 I’m currently learning **react js, fireBase**
 
-- 👯 I’m looking to collaborate on **teamates**
+- 👯 I’m looking to collaborate on **Team portfolio**
 
-- 🤝 I’m looking for help with **TEAM portfolio**
+- 🤝 I’m looking for help with [personal portfolio](https://github.com/Khamidov-M/my-portfolio)
 
-- 💬 Ask me about **react, js**
+- 👨‍💻 All of my projects are available at [khamidov-dev.netlify.app](khamidov-dev.netlify.app)
 
-- 📫 How to reach me **mardonbekkhamidvo69@gmail.com**
+- 💬 Ask me about **react js, html, css, router-dom**
+
+- 📫 How to reach me **mardonbekkhamidov69@gmail.com**
+
+- ⚡ Fun fact **I'm looking for a good team 🔥**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khamidov-m&show_icons=true&locale=en&layout=compact" alt="khamidov-m" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khamidov-m&show_icons=true&locale=en" alt="khamidov-m" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khamidov-m&" alt="khamidov-m" /></p>
