@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mardonbek Khamidov</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khamidov-m" alt="khamidov-m" /></a> </p>
-
 - 🔭 I’m currently working on [AutoPoster](https://github.com/Khamidov-M/auto-poster)
 
 - 🌱 I’m currently learning **react js, fireBase**
